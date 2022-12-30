@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">State Flag</string>
+    <string name="title_state_flag_list">State Flag List</string>
+    <string name="title_state_flag_detail">State Flag Detail</string>
+    <string name="no_state_flags_found">No State Flags Found</string>
+    <string name="state_flag_image">State Flag Image</string>
+    <string name="error_occurred">Error occurred try again later</string>
+</resources>

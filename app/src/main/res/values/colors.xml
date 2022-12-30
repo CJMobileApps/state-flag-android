@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="stateFlag_black">#323232</color>
+    <color name="stateFlag_blackDark">#191919</color>
+    <color name="stateFlag_green">#67b015</color>
+    <color name="stateFlag_greenDark">#1B6400</color>
+</resources>
